@@ -1,0 +1,29 @@
+{
+  "name": "osr-auto",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscava/osr-auto.git"
+  },
+  "keywords": [
+    "osr",
+    "auto"
+  ],
+  "author": "cava.zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscava/osr-auto/issues"
+  },
+  "homepage": "https://github.com/oscava/osr-auto#readme",
+  "dependencies": {
+    "osr-class": "^0.1.5"
+  }
+}
